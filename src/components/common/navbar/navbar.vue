@@ -36,7 +36,7 @@ export default {
     justify-content: space-between;
     align-items: center;
     background-color: black ;
-    max-height: 80px;
+    height:auto;
     width: 100%;
     padding: 2rem 2%;
 }

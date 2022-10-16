@@ -11,5 +11,6 @@ export default {
 <style scoped>
 #hero{
    background-color: black;
+   width: 100%;
 }
 </style>
